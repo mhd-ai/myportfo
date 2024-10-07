@@ -1,0 +1,27 @@
+[
+    {
+      "role": "Learning and Amature freelancing",
+      "startDate": "2019",
+      "experiences": ["Some websites and mobile apps that are outdated"],
+      "imageSrc": "laptop1.png"
+    },
+    {
+      "role": "UI Designer",
+      "organisation": " 'web Dadeh Co' ",
+      "startDate": "Aug, 2020",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked in a Private developer Company", "Helped to Design Websites and Mobile Apps UIs"],
+      "imageSrc": "res.png"
+    },
+    {
+      "role": "Auszubildende :)",
+      "organisation": "Ihr Firme ;)",
+      "startDate": "Sep, 2025",
+      "endDate": "bis .. ",
+      "experiences": [
+        "Sagen sie es mir!",
+        "Ich freue mich darauf zu erfahren ."
+      ],
+      "imageSrc": "laptop2.png"
+    }
+  ]

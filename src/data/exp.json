@@ -1,0 +1,48 @@
+[
+     {
+          "title": "Java",
+          "imageSrc": "java.png"
+        },
+        {
+      "title": "HTML",
+      "imageSrc": "html-5.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    },
+    
+    {
+        "title": "Javascript",
+        "imageSrc": "javascript.png"
+      },
+     
+        {
+            "title": "Android",
+            "imageSrc": "android.png"
+          },
+          {
+              "title": "Php",
+              "imageSrc": "php.png"
+            },
+            {
+                "title": "Adobe XD",
+                "imageSrc": "erfahrung.png"
+              },
+              {
+                  "title": "Mysql",
+                  "imageSrc": "mysql.png"
+                },
+                {
+                    "title": "SQL querries",
+                    "imageSrc": "sql.png"
+                  },
+                  {
+                      "title": "Git & GitHub",
+                      "imageSrc": "github.png"
+                    }
+  ]

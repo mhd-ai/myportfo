@@ -1,0 +1,17 @@
+[
+    
+    {
+      "title": "2 Mobile Apss",
+      "imageSrc": "prj2.png",
+      "description": "I have exprience of building TWo FullStack Apps to providing some local servises . it was a idea of mine and i deployed it in googleplay but it didnt last long .",
+      "skills": ["JAVA", "Xml","SQL", "PHP", "Mysql","AdobeXd"]
+      
+    },
+    {
+      "title": "Website Development",
+      "imageSrc": "webseite.png",
+      "description": "I had designed and code some FullStack website and deployed three of them (shopping , services) , but as you know they have built in old-fashion ways and doesnt exist anymore",
+      "skills": ["Html", "Css", "PHP" ,"javascript","Mysql","AdobeXd"]
+      
+    }
+  ]
